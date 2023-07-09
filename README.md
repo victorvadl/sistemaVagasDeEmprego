@@ -37,4 +37,5 @@ Com o excelente número de exercícios propostos e desafios realizados nesse mó
 
 Nesse desafio revisei os conceitos básicos do javascript assim como os mais complexos como por exemplo <strong>High-Order Function, Programação Orientada a Objetos, Arrays, Arrow Functions, Manipulação dos dados, tratamento para melhorar as apresentações, utilizando operadores ternários para efetuar as verificações, entre outros.</strong>
 
-Para praticar e fixar o conhecimento ainda mais, resolvi utilizando 2 abordagens diferentes, um utilizando o método .forEach dos arrays, e outra utilizando .reduce
+Para praticar e fixar o conhecimento ainda mais, resolvi utilizando 2 abordagens diferentes, um utilizando o método .forEach dos arrays, e outra utilizando .reduce.
+Sendo separado por arquivo, sendo o index.js a solução utilizando o método .reduce e o arquivo indexUsandoForEach.js sendo a solução utilizando o método .forEach.
