@@ -1,6 +1,6 @@
 # Desafio Sistema de Vagas de Emprego
 
-Desafio proposto pela OneBitCode de desenvolver um sistema onde é possível gerencias as vagas e adicionar candidatos às vagas.
+Desafio proposto pela OneBitCode de desenvolver um sistema onde é possível gerenciar as vagas e adicionar candidatos às vagas.
 
 ## Requisitos
 
