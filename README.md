@@ -33,8 +33,8 @@ Além de atender todos os requisitos, adicionei algumas melhorias no tratamento 
 
 ## Aprendizados
 
-Com o excelente número de exercícios propostos e desafios realizados nesse módulo da OneBitCode. Nesse desafio final pude por em prática diversos conceitos de lógica de programação.
+Com o excelente número de exercícios propostos e desafios realizados nesse módulo da OneBitCode. Nesse desafio final pude por em prática diversos conceitos de <strong>lógica de programação, tipos de dados, variáveis e operadores, estruturas de controle, estruturas de dados, funções</strong>.
 
-Nesse desafio revisei os conceitos básicos do javascript assim como os mais complexos como por exemplo High-Order Function, Programação Orientada a Objetos, Arrays, Arrow Functions, Manipulação dos dados, tratamento para melhorar as apresentações, utilizando operadores ternários para efetuar as verificações, entre outros.
+Nesse desafio revisei os conceitos básicos do javascript assim como os mais complexos como por exemplo <strong>High-Order Function, Programação Orientada a Objetos, Arrays, Arrow Functions, Manipulação dos dados, tratamento para melhorar as apresentações, utilizando operadores ternários para efetuar as verificações, entre outros.</strong>
 
 Para praticar e fixar o conhecimento ainda mais, resolvi utilizando 2 abordagens diferentes, um utilizando o método .forEach dos arrays, e outra utilizando .reduce
