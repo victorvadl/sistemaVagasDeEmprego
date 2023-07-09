@@ -63,6 +63,12 @@ function adicionarVaga() {
 // Lista todas as vagas e suas respectivas descrições e data limite.
 function visualizarVagas() {
 	const indice = prompt(listarVagas() + "Informe o índice da vaga que deseja exibir.");
+
+	if (indice >= vagas.length || indice < 0 || isNaN(indice)) {
+		alert("Índice inválido.");
+		return;
+	}
+
 	const vaga = vagas[indice];
 
 	const candidatosEmTexto = vaga.candidatos.reduce(function (textoFinal, candidato) {
